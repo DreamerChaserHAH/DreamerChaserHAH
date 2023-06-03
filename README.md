@@ -26,3 +26,5 @@ or alternatively,
 I will be concluding my intro here :D
 
 Ethan, out
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=DreamerEthan&theme=dark" alt="LeetCode Badges"/>
