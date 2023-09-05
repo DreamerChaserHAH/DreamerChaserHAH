@@ -3,9 +3,7 @@
 <img src="https://www.codewars.com/users/DreamerChaserHAH/badges/large"/>
 
 ## Certifications
-<a href="https://www.hackerrank.com/DreamerEthan">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/hackerrank%402x.png" width="150"/>
-</a>
+### HackerRank
 <table border="0">
   <tr>
     <td>
