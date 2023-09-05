@@ -1,5 +1,7 @@
 # Welcome to my Github!
 
+<img src="https://www.codewars.com/users/DreamerChaserHAH/badges/large"/>
+
 ## Greetings!
 
 Would you like to get your Unity Game Project with the best quality but with the lowest rates? 💸
