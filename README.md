@@ -1,6 +1,8 @@
 # Welcome to my Github!
 ## Training Progress
-<img src="https://www.codewars.com/users/DreamerChaserHAH/badges/large"/>
+![DreamerChaserHAH's Github Status](https://github-readme-stats.vercel.app/api?username=DreamerChaserHAH&show_icons=true&theme=dracula)
+<br/>
+<img src="https://www.codewars.com/users/DreamerChaserHAH/badges/small"/>
 
 ## Certifications
 ### HackerRank
