@@ -1,3 +1,33 @@
 # Welcome to my Github!
-
+## Training Progress
 <img src="https://www.codewars.com/users/DreamerChaserHAH/badges/large"/>
+
+## Certifications
+<a href="https://www.hackerrank.com/DreamerEthan">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/hackerrank%402x.png" width="150"/>
+</a>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://www.hackerrank.com/certificates/8fe3ce4fcea1">
+        <img width="75" src="https://github.com/DreamerChaserHAH/DreamerChaserHAH/blob/main/PS_Basic.png"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.hackerrank.com/certificates/6f5534ca1b01">
+        <img width="75" src="https://github.com/DreamerChaserHAH/DreamerChaserHAH/blob/main/CS_Basic.png"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Contact Me
+<table>
+  <tr>
+    <td>
+        <a href="contact@htetaung.com">
+          <img src="https://github.com/feathericons/feather/blob/main/icons/mail.svg"></img>
+        </a>
+    </td>
+  </tr>
+</table>
