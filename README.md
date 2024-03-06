@@ -1,4 +1,5 @@
 # Welcome to my Github!
+![](https://komarev.com/ghpvc/?username=DreamerChaserHAH)
 ## Training Progress
 ![DreamerChaserHAH's Github Status](https://github-readme-stats.vercel.app/api?username=DreamerChaserHAH&show_icons=true&theme=dracula)
 <br/>
