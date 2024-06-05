@@ -49,6 +49,13 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/DreamerChaserHAH/NKJ-Education">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=NKJ-Education&theme=dracula"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
