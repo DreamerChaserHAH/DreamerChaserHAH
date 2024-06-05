@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://www.codewars.com/users/DreamerChaserHAH/badges/small"/>
-  <a href="https://wakatime.com/@27549552-d2e3-455c-a289-849f61fcb36b">
-    <img src="https://wakatime.com/badge/user/27549552-d2e3-455c-a289-849f61fcb36b.svg"></img>
+  <a href="https://wakatime.com/@6643be8b-bff8-43c4-b777-b3e0fcce3a75">
+    <img src="https://wakatime.com/badge/user/6643be8b-bff8-43c4-b777-b3e0fcce3a75.svg"></img>
   </a>
   <br/>
   <a href="https://htetaung.com">Portfolio</a> |
@@ -18,12 +18,12 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerChaserHAH&langs_count=7&hide=Makefile,Svelte,CMake,Jupyter%20Notebook,HTML,CSS&theme=dracula&border_radius=20"/>
     </td>
     <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=DreamerChaserHAH&show_icons=true&theme=dracula&border_radius=20"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=DreamerChaserHAH&show_icons=true&theme=dracula&border_radius=20" width="500px"/>
     </td>
   </tr>
   <tr>
     <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=27549552-d2e3-455c-a289-849f61fcb36b&theme=dracula&border_radius=20"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=6643be8b-bff8-43c4-b777-b3e0fcce3a75&theme=dracula&border_radius=20" width = "500px"/>
     </td>
   </tr>
 </table>
@@ -41,6 +41,11 @@
     <td>
       <a>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=devghostone&repo=chess-company&theme=dracula&show_owner=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/DreamerChaserHAH/personal-library-assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=personal-library-assistant&theme=dracula"/>
       </a>
     </td>
   </tr>
