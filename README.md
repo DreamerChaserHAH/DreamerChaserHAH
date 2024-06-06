@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=6643be8b-bff8-43c4-b777-b3e0fcce3a75&theme=dracula&border_radius=20" width = "500px"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=victorevolves&theme=dracula&border_radius=20" width = "500px"/>
     </td>
   </tr>
 </table>
