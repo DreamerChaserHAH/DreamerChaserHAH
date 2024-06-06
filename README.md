@@ -1,9 +1,12 @@
 <h1 align="center">Welcome to my Github! 🔥</h1>
 
 <p align="center">
-  <img src="https://www.codewars.com/users/DreamerChaserHAH/badges/small"/>
   <a href="https://wakatime.com/@6643be8b-bff8-43c4-b777-b3e0fcce3a75">
     <img src="https://wakatime.com/badge/user/6643be8b-bff8-43c4-b777-b3e0fcce3a75.svg"></img>
+  </a>
+  <br/>
+  <a>
+    <img src="https://leetcard.jacoblin.cool/DreamerChaserHAH?ext=activity"/>
   </a>
   <br/>
   <a href="https://htetaung.com">Portfolio</a> |
