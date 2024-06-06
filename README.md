@@ -47,6 +47,7 @@
       <a href="https://github.com/DreamerChaserHAH/personal-library-assistant">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=personal-library-assistant&theme=dracula"/>
       </a>
+      In-Progress
     </td>
   </tr>
   <tr>
@@ -54,6 +55,13 @@
       <a href="https://github.com/DreamerChaserHAH/NKJ-Education">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=NKJ-Education&theme=dracula"/>
       </a>
+      In-Progress
+    </td>
+      <td>
+      <a href="https://github.com/DreamerChaserHAH/fe2o3-os">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=fe2o3-os&theme=dracula"/>
+      </a>
+      In-Progress
     </td>
   </tr>
 </table>
