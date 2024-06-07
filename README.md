@@ -12,7 +12,7 @@
   <a href="https://htetaung.com">Portfolio</a> |
   <a href="https://cv.htetaung.com">CV</a> |
   <a href="https://devlog.htetaung.com">Devlog</a> | 
-  <a href="https://blog.htetaung.com">Blog</a> |
+  <a href="https://medium.com/@victorevolves">Blog</a> |
   <a href="https://books.htetaung.com">Books</a>
 </p>
 <table align="center">
