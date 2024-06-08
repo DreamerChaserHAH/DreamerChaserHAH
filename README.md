@@ -35,7 +35,9 @@
   I am Victor, a 21 year old passionate backend/systems/game developer hoping to tap into the world of AI/ML/Blockchain. I would love to meet people from different disciplines from Business, IT, CS and Legal and befriend them!
 </p>
 
-<h2 align="center">Notable Personal Projects</h2>
+<h1 align="center">Projects and Experiments</h1>
+<p align="center">I have two types of repositories in my Github. <b>Projects</b> and <b>Experiments</b>. As the names suggest, projects serve a specific purpose emulating specific business requirements with multiple moving parts, while experiments are more about testing specific the implementation of one particular functionality.</p>
+<h2 align="center">Projects</h2>
 <p align="center">
   <i align="center">Note: devghostone is my alt account</i>
 </p>
@@ -65,6 +67,17 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=fe2o3-os&theme=dracula"/>
       </a>
       In-Progress
+    </td>
+  </tr>
+</table>
+<h2 align="center">Experiments</h2>
+<p align="center">Some notable experiments that I have done 👀</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/DreamerChaserHAH/gpu-conway-game-of-life">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=gpu-conway-game-of-life&theme=dracula"/>
+      </a>
     </td>
   </tr>
 </table>
