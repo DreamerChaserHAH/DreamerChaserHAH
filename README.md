@@ -17,16 +17,16 @@
 </p>
 <table align="center">
   <tr>
-    <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerChaserHAH&langs_count=7&hide=Makefile,Svelte,CMake,Jupyter%20Notebook,HTML,CSS&theme=dracula&border_radius=20"/>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerChaserHAH&langs_count=8&hide=Makefile,Svelte,CMake,Jupyter%20Notebook,HTML,CSS&theme=dracula&border_radius=20&layout=compact"/>
     </td>
     <td align="right">
       <img src="https://github-readme-stats.vercel.app/api?username=DreamerChaserHAH&show_icons=true&theme=dracula&border_radius=20" width="500px"/>
     </td>
   </tr>
   <tr>
-    <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=victorevolves&theme=dracula&border_radius=20" width = "500px"/>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=victorevolves&theme=dracula&border_radius=20&langs_count=8" width = "50%"/>
     </td>
   </tr>
 </table>
