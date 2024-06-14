@@ -49,8 +49,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/DreamerChaserHAH/personal-library-assistant">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=personal-library-assistant&theme=dracula"/>
+      <a href="https://github.com/DreamerChaserHAH/i-will-do">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=i-will-do&theme=dracula"/>
       </a>
       In-Progress
     </td>
