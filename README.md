@@ -79,6 +79,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=gpu-conway-game-of-life&theme=dracula"/>
       </a>
     </td>
+    <td>
+      <a href="https://github.com/DreamerChaserHAH/langchain-action-model-experiment">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=langchain-action-model-experiment&theme=dracula"/>
+      </a>
+    </td>
   </tr>
 </table>
 
