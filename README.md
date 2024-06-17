@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerChaserHAH&langs_count=8&hide=Makefile,Svelte,CMake,Jupyter%20Notebook,HTML,CSS&theme=dracula&border_radius=20&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerChaserHAH&langs_count=8&hide=Makefile,Svelte,CMake,Jupyter%20Notebook,HTML,CSS,Dart&theme=dracula&border_radius=20&layout=compact"/>
     </td>
     <td align="right">
       <img src="https://github-readme-stats.vercel.app/api?username=DreamerChaserHAH&show_icons=true&theme=dracula&border_radius=20" width="500px"/>
