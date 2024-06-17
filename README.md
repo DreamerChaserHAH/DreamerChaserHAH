@@ -63,8 +63,8 @@
       In-Progress
     </td>
       <td>
-      <a href="https://github.com/DreamerChaserHAH/fe2o3-os">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=fe2o3-os&theme=dracula"/>
+      <a href="https://github.com/DreamerChaserHAH/help-me">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=help-me&theme=dracula"/>
       </a>
       In-Progress
     </td>
