@@ -91,6 +91,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=solana-data-account-experiment&theme=dracula"/>
       </a>
     </td>
+    <td>
+      <a href="https://github.com/DreamerChaserHAH/simple-edit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=simple-edit&theme=dracula"/>
+      </a>
+    </td>
   </tr>
 </table>
 
