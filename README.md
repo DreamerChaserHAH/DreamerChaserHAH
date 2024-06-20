@@ -97,6 +97,13 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/DreamerChaserHAH/python-is-even-neural-network-classifier-experiment">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=python-is-even-neural-network-classifier-experiment&theme=dracula"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
