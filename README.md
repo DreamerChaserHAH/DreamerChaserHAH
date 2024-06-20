@@ -63,8 +63,8 @@
       In-Progress
     </td>
       <td>
-      <a href="https://github.com/DreamerChaserHAH/help-me">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=help-me&theme=dracula"/>
+      <a href="https://github.com/DreamerChaserHAH/bm-translator-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=bm-translator-api&theme=dracula"/>
       </a>
       In-Progress
     </td>
