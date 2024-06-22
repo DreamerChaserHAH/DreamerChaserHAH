@@ -45,25 +45,12 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=devghostone&repo=chess-company&theme=dracula&show_owner=true"/>
       </a>
     </td>
-    <td>
-      <a href="https://github.com/DreamerChaserHAH/nomadic-webcam">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=nomadic-webcam&theme=dracula"/>
-      </a>
-      In-Progress
-    </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/DreamerChaserHAH/NKJ-Education">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=NKJ-Education&theme=dracula"/>
-      </a>
-      In-Progress
-    </td>
       <td>
-      <a href="https://github.com/DreamerChaserHAH/bm-translator-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=bm-translator-api&theme=dracula"/>
+      <a href="https://github.com/DreamerChaserHAH/becat-burmese-english-annotator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=becat-burmese-english-annotator&theme=dracula"/>
       </a>
-      In-Progress
     </td>
   </tr>
 </table>
