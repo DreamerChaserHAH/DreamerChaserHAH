@@ -5,9 +5,6 @@
     <img src="https://wakatime.com/badge/user/6643be8b-bff8-43c4-b777-b3e0fcce3a75.svg"></img>
   </a>
   <br/>
-  <a>
-    <img src="https://leetcard.jacoblin.cool/DreamerChaserHAH?ext=activity"/>
-  </a>
   <br/>
   <a href="https://htetaung.com">Portfolio</a> |
   <a href="https://cv.htetaung.com">CV</a> |
