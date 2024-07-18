@@ -94,7 +94,11 @@
 </p>
 
 <h2 align="center">Certifications</h2>
-- Coming soon
+<p align="center">
+  <a href="https://www.credly.com/badges/58b9a9c0-3719-4411-96d9-6df226df43ea/public_url">
+    <img src="https://images.credly.com/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="150" height="150"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victorevolves/">
