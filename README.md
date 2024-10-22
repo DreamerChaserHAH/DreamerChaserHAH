@@ -1,34 +1,19 @@
-<h1 align="center">Welcome to my Github! 🔥</h1>
-
 <p align="center">
-  <a href="https://wakatime.com/@6643be8b-bff8-43c4-b777-b3e0fcce3a75">
-    <img src="https://wakatime.com/badge/user/6643be8b-bff8-43c4-b777-b3e0fcce3a75.svg"></img>
-  </a>
-  <br/>
   <br/>
   <a href="https://htetaung.com">Portfolio</a> |
   <a href="https://cv.htetaung.com">CV</a> |
   <a href="https://victorevolves.substack.com">Tech Blog</a> |
   <a href="https://books.htetaung.com">Books</a>
+  <br>
+  <a href="https://wakatime.com/@6643be8b-bff8-43c4-b777-b3e0fcce3a75">
+    <img src="https://wakatime.com/badge/user/6643be8b-bff8-43c4-b777-b3e0fcce3a75.svg"></img>
+  </a>
+  <br/>
 </p>
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerChaserHAH&langs_count=8&hide=Makefile,Svelte,CMake,Jupyter%20Notebook,HTML,CSS,Dart,GDScript,Shell,Javascript,Swift&theme=dracula&border_radius=20&layout=compact"/>
-    </td>
-    <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=DreamerChaserHAH&show_icons=true&theme=dracula&border_radius=20" width="500px"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=victorevolves&theme=dracula&border_radius=20&langs_count=8" width = "50%"/>
-    </td>
-  </tr>
-</table>
+
 
 <p align="center">
-  I am Victor, a 21 year old passionate backend/systems/game developer hoping to tap into the world of AI/ML/Blockchain. I would love to meet people from different disciplines from Business, IT, CS and Legal and befriend them!
+  I am Victor, a 21 year old passionate backend/systems/game developer hoping to tap into the world of AI/ML/Blockchain. I would love to meet people from different disciplines: Business, CS and Legal to befriend them!
 </p>
 
 <h1 align="center">Projects and Experiments</h1>
@@ -41,14 +26,12 @@
   <tr>
     <td>
       <a>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devghostone&repo=chess-company&theme=dracula&show_owner=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devghostone&repo=chess-company&theme=material-palenight&show_owner=true"/>
       </a>
     </td>
-  </tr>
-  <tr>
       <td>
       <a href="https://github.com/DreamerChaserHAH/becat-burmese-english-annotator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=becat-burmese-english-annotator&theme=dracula"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=becat-burmese-english-annotator&theme=material-palenight"/>
       </a>
     </td>
   </tr>
@@ -59,31 +42,31 @@
   <tr>
     <td>
       <a href="https://github.com/DreamerChaserHAH/gpu-conway-game-of-life">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=gpu-conway-game-of-life&theme=dracula"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=gpu-conway-game-of-life&theme=material-palenight"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/DreamerChaserHAH/langchain-action-model-experiment">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=langchain-action-model-experiment&theme=dracula"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=langchain-action-model-experiment&theme=material-palenight"/>
       </a>
     </td>
   </tr>
   <tr>
       <td>
       <a href="https://github.com/DreamerChaserHAH/solana-data-account-experiment">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=solana-data-account-experiment&theme=dracula"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=solana-data-account-experiment&theme=material-palenight"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/DreamerChaserHAH/simple-edit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=simple-edit&theme=dracula"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=simple-edit&theme=material-palenight"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/DreamerChaserHAH/python-is-even-neural-network-classifier-experiment">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=python-is-even-neural-network-classifier-experiment&theme=dracula"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=python-is-even-neural-network-classifier-experiment&theme=material-palenight"/>
       </a>
     </td>
   </tr>
@@ -96,7 +79,7 @@
 <h2 align="center">Certifications</h2>
 <p align="center">
   <a href="https://www.credly.com/badges/58b9a9c0-3719-4411-96d9-6df226df43ea/public_url">
-    <img src="https://images.credly.com/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="150" height="150"/>
+    <img src="https://images.credly.com/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="75" height="75"/>
   </a>
 </p>
 
