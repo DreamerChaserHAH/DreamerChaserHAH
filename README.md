@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=material-palenight&preferLogin=true">    <img  alt="DreamerChaserHAH's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DreamerChaserHAH?cardType=level&theme=material-palenight&preferLogin=true" />  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DreamerChaserHAH&show_icons=true&theme=material-palenight"></img>
   <br>
   <a href="https://wakatime.com/@6643be8b-bff8-43c4-b777-b3e0fcce3a75">
     <img src="https://wakatime.com/badge/user/6643be8b-bff8-43c4-b777-b3e0fcce3a75.svg"></img>
