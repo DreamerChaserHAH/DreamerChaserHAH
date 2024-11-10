@@ -72,6 +72,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=python-is-even-neural-network-classifier-experiment&theme=material-palenight"/>
       </a>
     </td>
+      <td>
+      <a href="https://github.com/DreamerChaserHAH/arbitrum-cross-contract-communication-experiment">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=arbitrum-cross-contract-communication-experiment&theme=material-palenight"/>
+      </a>
+    </td>
   </tr>
 </table>
 
