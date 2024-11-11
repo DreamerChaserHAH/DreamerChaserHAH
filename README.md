@@ -78,6 +78,13 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/DreamerChaserHAH/privy-arbitrum-push-experiment">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=privy-arbitrum-push-experiment&theme=material-palenight"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
