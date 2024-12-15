@@ -25,20 +25,40 @@
 <p align="center">
   <i align="center">Note: devghostone is my alt account</i>
 </p>
-<table align="center">
-  <tr>
-    <td>
-      <a>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devghostone&repo=chess-company&theme=material-palenight&show_owner=true"/>
-      </a>
-    </td>
-      <td>
-      <a href="https://github.com/DreamerChaserHAH/becat-burmese-english-annotator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DreamerChaserHAH&repo=becat-burmese-english-annotator&theme=material-palenight"/>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/55c77568-d07d-4be1-8c00-9cf297da9490" width="50%"/>
+    <br>
+    <a href="https://github.com/devghostone/snake-game">
+      WASM Snake Game
+    </a>
+</div>
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/112a6768-d06b-405b-9238-ead74cf9627d" width="50%"/>
+    <br>
+    <a href="https://github.com/DreamerChaserHAH/htetaung.com">
+      Portfolio Website
+    </a>
+</div>
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/3ff5eb70-2acb-4956-ae0e-527fc522c160" width="50%"/>
+    <br>
+    <a href="https://github.com/YumeVote">
+      YumeVote (Devmatch Hackathon Government Track 1st Prize Project)
+    </a>
+</div>
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/9f73f293-ec38-43c0-8e12-de8954a3422b" width="50%"/>
+    <br>
+    <a href="https://github.com/yumerts">
+      YumeRTS (ETHGlobal Bangkok Bounty Winning Project)
+    </a>
+</div>
+
+
 <h2 align="center">Experiments</h2>
 <p align="center">Some notable experiments that I have done 👀</p>
 <table align="center">
