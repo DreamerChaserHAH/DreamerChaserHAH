@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  I am Victor, a 21 year old passionate backend/systems/game developer hoping to tap into the world of AI/ML/Blockchain. I would love to meet people from different disciplines: Business, CS and Legal to befriend them!
+  I am Victor, a 22 year old passionate backend/systems/game developer hoping to tap into the world of AI/ML/Blockchain. I would love to meet people from different disciplines: Business, CS and Legal to befriend them!
 </p>
 
 <h1 align="center">Projects and Experiments</h1>
